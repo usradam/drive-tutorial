@@ -32,6 +32,7 @@
   },
   "include": [
     "next-env.d.ts",
+    "eslint.d.ts",
     "**/*.ts",
     "**/*.tsx",
     "**/*.cjs",
