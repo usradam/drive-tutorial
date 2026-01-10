@@ -5,7 +5,7 @@
 ## TODO
 - [x] Setup database and data model
 - [x] Move folder open state to URL
-- [ ] Add auth
+- [x] Add auth
 - [ ] Add file uploading
 - [ ] Add analytics
 - [x] Change folders to link components, remove all client state
